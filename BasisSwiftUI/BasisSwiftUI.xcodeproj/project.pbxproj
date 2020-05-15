@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30A5B02C246E777300426AF7 /* DeviceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A5B02B246E777300426AF7 /* DeviceModel.swift */; };
 		30BF2EC62465578900639228 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BF2EC52465578900639228 /* AppDelegate.swift */; };
 		30BF2EC82465578900639228 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BF2EC72465578900639228 /* SceneDelegate.swift */; };
 		30BF2ECA2465578900639228 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BF2EC92465578900639228 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		30A5B02B246E777300426AF7 /* DeviceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeviceModel.swift; sourceTree = "<group>"; };
 		30BF2EC22465578900639228 /* BasisSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BasisSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		30BF2EC52465578900639228 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		30BF2EC72465578900639228 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				30BF2EC52465578900639228 /* AppDelegate.swift */,
 				30BF2EC72465578900639228 /* SceneDelegate.swift */,
 				30BF2EC92465578900639228 /* ContentView.swift */,
+				30A5B02B246E777300426AF7 /* DeviceModel.swift */,
 				30BF2ECB2465578A00639228 /* Assets.xcassets */,
 				30BF2ED02465578A00639228 /* LaunchScreen.storyboard */,
 				30BF2ED32465578A00639228 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30BF2EC62465578900639228 /* AppDelegate.swift in Sources */,
+				30A5B02C246E777300426AF7 /* DeviceModel.swift in Sources */,
 				30BF2EC82465578900639228 /* SceneDelegate.swift in Sources */,
 				30BF2ECA2465578900639228 /* ContentView.swift in Sources */,
 			);
